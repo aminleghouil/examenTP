@@ -1,0 +1,28 @@
+.write {
+    padding: 20px;
+}
+
+.write form {
+    display: flex;
+    flex-direction: column;
+}
+
+.write textarea {
+    margin: 10px 0;
+    padding: 10px;
+    font-size: 16px;
+    height: 150px;
+    resize: none;
+}
+
+.write input {
+    margin: 10px 0;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.write button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}

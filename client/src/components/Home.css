@@ -1,0 +1,19 @@
+.home {
+    padding: 20px;
+}
+
+.home ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.home li {
+    border: 1px solid #ddd;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.home li p {
+    margin: 5px 0;
+}
